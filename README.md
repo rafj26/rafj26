@@ -1,4 +1,4 @@
-# ¡Hola, soy rafj26! 👋
+# ¡Hola, soy Rolando Flores! 👋
 
 ## Sobre mí
 Soy un profesional en Desarrollo y Gestión de Software con experiencia como QA Automation Tester. Me apasiona la tecnología y constantemente me mantengo al día con las últimas herramientas y tendencias en el mundo del desarrollo.
