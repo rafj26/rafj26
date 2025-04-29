@@ -34,7 +34,7 @@ Este repositorio funciona como mi portafolio digital, donde comparto proyectos p
 ## 📫 Contacto
 <!-- Puedes añadir enlaces a tus redes sociales o correo -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flores-rolando/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rolando.flores.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolando.flores.dev@gmail.com)
 
 ## 📊 GitHub Stats
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical)](https://github.com/rafj26)
