@@ -18,7 +18,7 @@ const skills = {
   platforms: ["Azure DevOps"],
   methodologies: ["Scrum"],
   interests: ["Nuevas Tecnologías", "QA", "Mejores Prácticas"],
-  hobies: ["Mobile", "Documentacion"]
+  hobbies: ["Mobile", "Documentacion"]
 };
 ```
 
