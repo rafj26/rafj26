@@ -13,7 +13,7 @@ Soy un profesional en Desarrollo y Gestión de Software con experiencia como QA 
 ```javascript
 const skills = {
   testing: ["Pruebas Funcionales", "Automatización QA", "Test Cases"],
-  programming: ["JavaScript", "HTML", "CSS", "Java", ]
+  programming: ["JavaScript", "HTML", "TypeScript", "Java", ]
   tools: ["Postman", "JMeter", "Selenium", "Git", "GitHub"],
   platforms: ["Azure DevOps"],
   methodologies: ["Scrum"],
