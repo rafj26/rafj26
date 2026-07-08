@@ -1,44 +1,62 @@
-# ¡Hola, soy rafj26! 👋
+# Hi, I'm rafj26
 
-## Sobre mí
-Soy un profesional en Desarrollo y Gestión de Software con experiencia como QA Automation Tester. Me apasiona la tecnología y constantemente me mantengo al día con las últimas herramientas y tendencias en el mundo del desarrollo.
+## About Me
+I'm a professional in Software Development and Management, currently working as a QA Automation Tester in the banking sector. I focus on quality assurance for core banking functionalities, taking part in the enhancement and renewal of critical processes. I'm passionate about technology and constantly keep up to date with the latest tools and trends in development and testing.
 
-## 💼 Experiencia
-- **QA Automation Tester** - Especializado en pruebas funcionales y automatización de procesos de calidad.
-  - Análisis y ejecución de pruebas de usuario
-  - Creación y mantenimiento de casos de prueba
-  - Testing funcional y automatizado
+## Experience
 
-## 🚀 Habilidades
+**QA Automation Tester - Banking Sector**
+- Functional and automated testing of core banking functionalities
+- Enhancement and renewal of existing core functionalities
+- Test automation with Robot Framework and Playwright
+- Test management and issue tracking with Jira and Xray
+- Continuous test integration with Jenkins
+- Performance testing with k6
+- API documentation and validation with Swagger
+- Version control and collaboration with Bitbucket
+
+**QA Automation Tester - Aviation Sector**
+- Specialized in functional testing and quality process automation
+- User testing analysis and execution
+- Creation and maintenance of test cases
+- Functional and automated testing
+
+## Skills
 ```javascript
 const skills = {
-  testing: ["Pruebas Funcionales", "Automatización QA", "Test Cases"],
-  programming: ["JavaScript", "HTML", "TypeScript", "Java", ]
-  tools: ["Postman", "JMeter", "Selenium", "Git", "GitHub"],
+  testing: ["Functional Testing", "QA Automation", "Test Cases", "Performance Testing"],
+  programming: ["JavaScript", "TypeScript", "Python", "HTML", "Java"],
+  automation: ["Robot Framework", "Playwright", "Selenium"],
+  tools: ["Jira", "Xray", "Jenkins", "k6", "Postman", "JMeter", "Git", "GitHub", "Bitbucket", "Swagger"],
+  cloud: ["AWS"],
   platforms: ["Azure DevOps"],
   methodologies: ["Scrum"],
-  interests: ["Nuevas Tecnologías", "QA", "Mejores Prácticas"],
-  hobbies: ["Mobile", "Documentacion"]
+  domain: ["Core Banking"],
+  interests: ["New Technologies", "QA", "Best Practices"],
+  hobbies: ["Mobile", "Documentation"]
 };
 ```
 
-## 🏆 Certificaciones
-- Certificado en Scrum Fundamentals
-- Diversos cursos de especialización en testing y desarrollo
+## Certifications
+- Scrum Fundamentals Certified
+- Various specialization courses in testing and development
 
-## 📚 Educación
-- Estudiante de Desarrollo y Gestión de Software
+## Education
+- Software Development and Management student
 
-## 🔍 Objetivos
-Este repositorio funciona como mi portafolio digital, donde comparto proyectos personales y profesionales que demuestran mis habilidades en programación y testing.
+## Goals
+This repository serves as my digital portfolio, where I share personal and professional projects that showcase my skills in programming and testing, including my current experience in the banking sector.
 
-## 📫 Contacto
-- 📧 **Email:** rolando.flores.dev@gmail.com
-- 💼 **LinkedIn:** [Rolando Flores](https://www.linkedin.com/in/flores-rolando/)
-- 🌐 **GitHub:** [@rafj26](https://github.com/rafj26)
+## Contact
+- **Email:** rolando.flores.dev@gmail.com
+- **LinkedIn:** [Rolando Flores](https://www.linkedin.com/in/flores-rolando/)
+- **GitHub:** [@rafj26](https://github.com/rafj26)
 
-## 📊 GitHub Stats
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical)](https://github.com/rafj26)
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical)](https://github.com/rafj26)
+
+## Commit Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafj26&theme=radical)](https://github.com/rafj26)
 
 ---
-⭐️ ¡Gracias por visitar mi perfil! ⭐️
+Thanks for visiting my profile.
