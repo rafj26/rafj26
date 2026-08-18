@@ -53,8 +53,8 @@ This repository serves as my digital portfolio, where I share personal and profe
 - **GitHub:** [@rafj26](https://github.com/rafj26)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical)](https://github.com/rafj26)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafj26&layout=compact&theme=radical)](https://github.com/rafj26)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical&count_private=true)](https://github.com/rafj26)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafj26&layout=compact&theme=radical&count_private=true)](https://github.com/rafj26)
 
 ## Commit Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rafj26&theme=radical)](https://github.com/rafj26)
