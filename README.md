@@ -54,9 +54,13 @@ This repository serves as my digital portfolio, where I share personal and profe
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafj26&show_icons=true&theme=radical)](https://github.com/rafj26)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafj26&layout=compact&theme=radical)](https://github.com/rafj26)
 
 ## Commit Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rafj26&theme=radical)](https://github.com/rafj26)
+
+## Activity Graph
+[![Rolando's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafj26&theme=react-dark&hide_border=true&bg_color=1a1a1a)](https://github.com/rafj26)
 
 ---
 Thanks for visiting my profile.
